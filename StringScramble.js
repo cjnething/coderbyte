@@ -21,16 +21,13 @@ function StringScramble(str1,str2) {
       string1[str1.charAt(i)]++;
     }
   }
-  
-  console.log(string1);
+
   
    for (var j = 0; j<str2.length; j++) {
 
     if (!string1[str2.charAt(j)] || string1[str2.charAt(j)] <= 0) {
-      console.log('j', j, 'false');
       canBeArranged = false;
     } else {
-      console.log('j', j, 'true');
       string1[str2.charAt(j)]--;
     }
   }

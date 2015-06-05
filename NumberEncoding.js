@@ -1,7 +1,7 @@
 //CODERBYTE: NUMBER ENCODING
 //MEDIUM
 //COMPLETED 6/3/15
-//POINTS: 5/5
+//POINTS: 10/10
 
 
 //Have the function NumberEncoding(str) take the str parameter and encode the message

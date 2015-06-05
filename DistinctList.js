@@ -1,7 +1,7 @@
 //CODERBYTE: DISTINCT LIST
 //MEDIUM
 //COMPLETED 6/3/15
-//POINTS: 5/5
+//POINTS: 10/10
 
 
 //Have the function DistinctList(arr) take the array of numbers stored in arr

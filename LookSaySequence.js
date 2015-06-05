@@ -1,6 +1,7 @@
 //CODERBYTE: LOOK SAY SEQUENCE
 //MEDIUM
 //COMPLETED 6/3/2015
+//POINTS: 10/10
 
 /*
 Have the function LookSaySequence(num) take the num parameter being passed and return the
