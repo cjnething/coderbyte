@@ -69,6 +69,5 @@ function MostFreeTime(strArr) {
          
 }
    
-// keep this function call here 
-// to see how to enter arguments in JavaScript scroll down
+
 MostFreeTime(readline());  
